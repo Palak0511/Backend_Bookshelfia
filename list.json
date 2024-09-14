@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name":"Sky and Stars",
+        "title":"Story Book",
+        "price":10,
+        "category":"Free",
+        "image":"Story.jpg"
+    },
+    {
+        "id":2,
+        "name":"True Beauty",
+        "title":"Anime",
+        "price":10,
+        "category":"Free",
+        "image":"fiction.jpg"
+    },
+    {
+        "id":3,
+        "name":"See you again",
+        "title":"Anime",
+        "price":20,
+        "category":"Free",
+        "image":"image6.jpg"
+    },
+    {
+        "id":4,
+        "name":"Fictional Chase",
+        "title":"Fiction",
+        "price":0,
+        "category":"Free",
+        "image":"image3.jpg"
+    },
+    {
+        "id":5,
+        "name":"Adventures of Hawkins",
+        "title":"Story Book",
+        "price":20,
+        "category":"Free",
+        "image":"story3.jpg"
+    },
+    {
+        "id":6,
+        "name":"Dynamite",
+        "title":"Fiction",
+        "price":20,
+        "category":"Paid",
+        "image":"fiction4.jpg"
+    },
+    {
+        "id":7,
+        "name":"Suite life of Karan and Kabir",
+        "title":"Story Book",
+        "price":70,
+        "category":"Paid",
+        "image":"story2.jpg"
+    },
+    {
+        "id":8,
+        "name":"The Devil's Mind",
+        "title":"Fiction",
+        "price":40,
+        "category":"Paid",
+        "image":"fantasy.jpg"
+    },
+    {
+        "id":9,
+        "name":"The Summer I turned Pretty",
+        "title":"Fiction",
+        "price":20,
+        "category":"Paid",
+        "image":"fiction3.jpg"
+    },
+    {
+        "id":10,
+        "name":"The Notebook",
+        "title":"Fiction",
+        "price":20,
+        "category":"Paid",
+        "image":"image7.jpg"
+    },
+    {
+        "id":11,
+        "name":"Invisible",
+        "title":"Science Fiction",
+        "price":20,
+        "category":"Free",
+        "image":"sci.jpg"
+    },
+    {
+        "id":12,
+        "name":"Bread and Cheese",
+        "title":"Story Book",
+        "price":20,
+        "category":"Paid",
+        "image":"story2.jpg"
+    },
+    {
+        "id":13,
+        "name":"Mikrokosmos",
+        "title":"Science Fiction",
+        "price":20,
+        "category":"Paid",
+        "image":"fiction4.jpg"
+    },
+    {
+        "id":14,
+        "name":"Just One Day",
+        "title":"Fiction",
+        "price":20,
+        "category":"Paid",
+        "image":"fiction2.jpg"
+    },
+    {
+        "id":15,
+        "name":"Who?",
+        "title":"Fiction",
+        "price":20,
+        "category":"Paid",
+        "image":"fantasy.jpg"
+    }
+]
